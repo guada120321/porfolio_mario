@@ -1,0 +1,25 @@
+<!doctype html>
+<html lang="es">
+<head>
+<meta charset="utf-8" />
+<title>Responsive harness</title>
+<style>
+  html, body { margin: 0; background: #1a1a1a; }
+  iframe { border: 0; display: block; margin: 8px auto; background: #fff; }
+</style>
+</head>
+<body>
+<div id="wrap"></div>
+<script>
+  const sizes = [[360, 780], [390, 844], [800, 900], [1440, 900]];
+  for (const [w, h] of sizes) {
+    const f = document.createElement("iframe");
+    f.width = w;
+    f.height = h;
+    f.dataset.w = String(w);
+    f.src = "/index.html";
+    document.getElementById("wrap").appendChild(f);
+  }
+</script>
+</body>
+</html>
