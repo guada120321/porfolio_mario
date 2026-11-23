@@ -1,0 +1,89 @@
+%PDF-1.4
+%âãÏÓ
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [3 0 R] /Count 1 >>
+endobj
+3 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 5 0 R /F2 6 0 R /F3 7 0 R >> >> /Contents 4 0 R >>
+endobj
+4 0 obj
+<< /Length 3942 >>
+stream
+0.019 0.023 0.043 rg 0 0 595 842 re f
+0.133 0.827 0.933 rg 0 834 595 8 re f
+0.659 0.333 0.969 rg 0 834 198.33333333333334 8 re f
+0.043 0.055 0.086 rg 0 0 14 842 re f
+0.133 0.827 0.933 rg 0 622 4 220 re f
+BT /F1 34 Tf 0.945 0.957 0.98 rg Tc 0.6 56 748 Td (ARRIETA GUADALUPE) Tj ET
+BT /F3 10.5 Tf 0.133 0.827 0.933 rg Tc 2.4 57 722 Td (TECNICA EN PROGRAMACION) Tj ET
+BT /F2 9 Tf 0.56 0.60 0.68 rg  57 700 Td (18 anos · Argentina · Disponible para proyectos y practicas) Tj ET
+BT /F2 8.5 Tf 0.56 0.60 0.68 rg  57 676 Td (arrietaguadalupe@gmail.com   ·   +54 9 11 0000-0000   ·   linkedin.com/in/arrietaguadalupe) Tj ET
+0.16 0.18 0.24 RG 0.8 w 56 658 m 539 658 l S
+0.133 0.827 0.933 rg 56 626 6 6 re f
+BT /F1 11 Tf 0.945 0.957 0.98 rg Tc 1.6 72 627 Td (PERFIL) Tj ET
+BT /F2 9.2 Tf 0.56 0.60 0.68 rg  56 602 Td (Tecnica en Programacion de 18 anos, apasionada por la tecnologia, la logica y el codigo limpio.) Tj ET
+BT /F2 9.2 Tf 0.56 0.60 0.68 rg  56 587 Td (Creo interfaces y soluciones digitales funcionales, cuidadas al detalle y faciles de usar.) Tj ET
+BT /F2 9.2 Tf 0.56 0.60 0.68 rg  56 572 Td (Mentalidad analitica, aprendizaje continuo y muchas ganas de seguir creciendo en la industria.) Tj ET
+0.133 0.827 0.933 rg 56 545 6 6 re f
+BT /F1 11 Tf 0.945 0.957 0.98 rg Tc 1.6 72 546 Td (HABILIDADES) Tj ET
+BT /F3 7.6 Tf 0.133 0.827 0.933 rg Tc 1 56 521 Td (FRONTEND) Tj ET
+BT /F2 9 Tf 0.945 0.957 0.98 rg  160 521 Td (HTML5 · CSS3 · JavaScript · Diseno responsive · DOM y eventos) Tj ET
+BT /F3 7.6 Tf 0.133 0.827 0.933 rg Tc 1 56 504 Td (BASES DE DATOS) Tj ET
+BT /F2 9 Tf 0.945 0.957 0.98 rg  160 504 Td (MySQL · SQL · Consultas · Relaciones) Tj ET
+BT /F3 7.6 Tf 0.133 0.827 0.933 rg Tc 1 56 487 Td (HERRAMIENTAS) Tj ET
+BT /F2 9 Tf 0.945 0.957 0.98 rg  160 487 Td (Git · GitHub · VS Code) Tj ET
+BT /F3 7.6 Tf 0.133 0.827 0.933 rg Tc 1 56 470 Td (OTRAS) Tj ET
+BT /F2 9 Tf 0.945 0.957 0.98 rg  160 470 Td (Logica y algoritmos · Validacion de formularios · LocalStorage) Tj ET
+0.133 0.827 0.933 rg 56 441 6 6 re f
+BT /F1 11 Tf 0.945 0.957 0.98 rg Tc 1.6 72 442 Td (PROYECTOS DESTACADOS) Tj ET
+BT /F1 9.6 Tf 0.945 0.957 0.98 rg  56 417 Td (Nebula Analytics) Tj ET
+BT /F2 8.8 Tf 0.56 0.60 0.68 rg  56 404 Td (Dashboard de practica con graficos animados, filtros y datos de ejemplo. JavaScript puro y CSS Grid.) Tj ET
+BT /F1 9.6 Tf 0.945 0.957 0.98 rg  56 385 Td (Campus Virtual) Tj ET
+BT /F2 8.8 Tf 0.56 0.60 0.68 rg  56 372 Td (Interfaz educativa con cursos, tarjetas de progreso y navegacion simple. HTML, CSS y JavaScript.) Tj ET
+BT /F1 9.6 Tf 0.945 0.957 0.98 rg  56 353 Td (TaskFlow) Tj ET
+BT /F2 8.8 Tf 0.56 0.60 0.68 rg  56 340 Td (Gestor de tareas tipo kanban con drag & drop y persistencia local. JavaScript puro.) Tj ET
+0.133 0.827 0.933 rg 56 311 6 6 re f
+BT /F1 11 Tf 0.945 0.957 0.98 rg Tc 1.6 72 312 Td (EDUCACION Y FORMACION) Tj ET
+BT /F1 9.6 Tf 0.945 0.957 0.98 rg  56 287 Td (Tecnicatura en Programacion) Tj ET
+BT /F3 8 Tf 0.133 0.827 0.933 rg Tc 0.6 440 287 Td (Formacion tecnica) Tj ET
+BT /F2 9.2 Tf 0.56 0.60 0.68 rg  56 273 Td (Formacion tecnica en desarrollo de software, bases de datos, algoritmos y buenas practicas.) Tj ET
+BT /F2 9.2 Tf 0.56 0.60 0.68 rg  56 258 Td (Aprendizaje autodidacta constante: cursos, documentacion y proyectos propios.) Tj ET
+0.133 0.827 0.933 rg 56 229 6 6 re f
+BT /F1 11 Tf 0.945 0.957 0.98 rg Tc 1.6 72 230 Td (CONTACTO) Tj ET
+BT /F2 9 Tf 0.56 0.60 0.68 rg  56 205 Td (Email: arrietaguadalupe@gmail.com) Tj ET
+BT /F2 9 Tf 0.56 0.60 0.68 rg  56 190 Td (WhatsApp: +54 9 11 0000-0000) Tj ET
+BT /F2 9 Tf 0.56 0.60 0.68 rg  56 175 Td (LinkedIn: linkedin.com/in/arrietaguadalupe) Tj ET
+BT /F2 9 Tf 0.56 0.60 0.68 rg  56 160 Td (GitHub: github.com/arrietaguadalupe) Tj ET
+0.16 0.18 0.24 RG 0.8 w 56 62 m 539 62 l S
+BT /F2 8 Tf 0.56 0.60 0.68 rg  56 44 Td (Disenado y desarrollado con pasion por Arrieta Guadalupe · 2026) Tj ET
+BT /F3 7 Tf 0.133 0.827 0.933 rg Tc 1.2 452 44 Td (PORTAFOLIO 2026) Tj ET
+
+endstream
+endobj
+5 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold /Encoding /WinAnsiEncoding >>
+endobj
+6 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica /Encoding /WinAnsiEncoding >>
+endobj
+7 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Courier /Encoding /WinAnsiEncoding >>
+endobj
+xref
+0 8
+0000000000 65535 f 
+0000000015 00000 n 
+0000000064 00000 n 
+0000000121 00000 n 
+0000000267 00000 n 
+0000004261 00000 n 
+0000004363 00000 n 
+0000004460 00000 n 
+trailer
+<< /Size 8 /Root 1 0 R >>
+startxref
+4555
+%%EOF
